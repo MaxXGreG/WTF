@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-     background-image: url(./img/elmo.jpg);
+     background-image: url(./elmo.jpg);
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -26,7 +26,7 @@ td, th {
 }
 
 #italiano {
-    background-image: url(./img/sphagetti.jpg);
+    background-image: url(./sphagetti.jpg);
     background-size: cover;
     background-position: center;
     height: 500px;
