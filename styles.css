@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+     background-image: url(./img/elmo.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+table {
+    border: 1px solid aquamarine;
+}
+
+td, th {
+    border: 20px solid aquamarine;
+    font-size: 30px;
+    background-color: aquamarine;
+}
+
+.truth {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 1000;
+    font-style: oblique;
+    font-stretch: condensed;
+    color: blue;
+}
+
+#italiano {
+    background-image: url(./img/sphagetti.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pasta {
+    font-family: sans-serif;
+    font-size: 90px;
+    color: green;
+}
